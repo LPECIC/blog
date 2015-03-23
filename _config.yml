@@ -1,8 +1,8 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: CIC Student Blogs
+description: Blogs by Student Community of Cluster Innovation Centre, University of Delhi
 
-url: http://brianmaierjr.github.com/long-haul
-paginate_path: "blog/page:num/"
+url: http://blog.ducic.ac.in
+paginate_path: "blog/page_:num/"
 permalink: blog/:title/
 
 markdown: redcarpet
@@ -10,9 +10,7 @@ pygments: true
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Blogs Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Cluster Innovation Centre
+   url: https://ducic.ac.in
